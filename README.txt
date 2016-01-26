@@ -12,3 +12,6 @@ dbussimplenotify.DBUSSimpleNotify.notify("my app", "hello world", 5000)
 
 should print "hello world" comming from "my app" with a timeout on 5 sec
 
+sources:  
+https://github.com/ehasting/DBUSSimpleNotify
+https://pypi.python.org/pypi/DBUSSimpleNotify
