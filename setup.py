@@ -3,6 +3,7 @@ from distutils.core import setup
 setup(
     name='DBUSSimpleNotify',
     author='Egil Hasting',
+    version="0.2.4",
     author_email='eh@higen.org',
     packages=['dbussimplenotify'],
     scripts=['dbussimplenotify/dbussimplenotify.py'],
