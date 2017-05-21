@@ -1,4 +1,4 @@
-from __future__ import division  # python2 compatibility
+  # python2 compatibility
 import dbus
 
 
